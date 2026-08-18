@@ -86,5 +86,5 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-  < img src =“https://pin.it/4EV1pWJ4G” />
+ <img src=https://pin.it/4EV1pWJ4G />
 </p>
