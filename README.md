@@ -10,14 +10,18 @@
 <img src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
--I'm currently learning how to build useful applications 📱/n
--I'm looking to collaborate on open-source projects 🔗/n
--I'm looking for help to improve my skills in backend and frontend development 👩🏽‍💻/n
+-I'm currently learning how to build useful applications 📱
+
+-I'm looking to collaborate on open-source projects 🔗
+
+-I'm looking for help to improve my skills in backend and frontend development 👩🏽‍💻
 
 
 ## 🧠 My Focus Areas
 -Web Development 💻
+
 -Backend and Frontend 📱📲
+
 -Interfaces🖼️
 
 
